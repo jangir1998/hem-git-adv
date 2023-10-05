@@ -1,0 +1,3 @@
+this file in the hem-git-adv folder 
+
+and we connect to this via github
