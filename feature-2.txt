@@ -5,5 +5,3 @@ git log --oneline --pretty
 git status
 git revert <commit-id>
 ls
--------
-git feature-2 last commit not see
