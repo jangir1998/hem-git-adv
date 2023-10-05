@@ -1,4 +1,7 @@
 git log 
 git log --oneline
 git log --oneline --pretty
-
+-----------
+git status
+git revert <commit-id>
+ls
